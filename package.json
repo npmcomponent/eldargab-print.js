@@ -1,13 +1,14 @@
 {
-  "name": "print",
+  "name": "eldargab-print.js",
+  "description": "mini template (format) function for html, urls, etc",
   "version": "0.0.1",
-  "author": "Eldar Gabdullin <eldargab@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/eldargab/print.js"
-  },
+  "keywords": [
+    "format",
+    "print",
+    "template"
+  ],
   "dependencies": {
-    "escape-html": "*"
+    "component-escape-html": "git://github.com/npmcomponent/component-escape-html.git"
   },
   "license": "MIT"
 }

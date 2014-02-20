@@ -1,4 +1,4 @@
-var escapeHTML = require('escape-html')
+var escapeHTML = require('component-escape-html')
 
 function print(args, escape) {
   var str = args[0]
